@@ -1,0 +1,29 @@
+{
+  "name": "book-concierge-tbr",
+  "version": "1.0.0",
+  "description": "Book concierge feature add",
+  "main": "index.js",
+  "dependencies": {
+    "firebase": "^8.6.1",
+    "firebase-tools": "^9.10.2",
+    "npx": "^10.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "login": "firebase login"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kscoulter/book-concierge-tbr.git"
+  },
+  "keywords": [
+    "books"
+  ],
+  "author": "Ksenia Coulter & Nadya Primak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kscoulter/book-concierge-tbr/issues"
+  },
+  "homepage": "https://github.com/kscoulter/book-concierge-tbr#readme"
+}
